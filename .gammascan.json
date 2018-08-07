@@ -1,0 +1,23 @@
+{
+	"gammaAccess": {
+		"url": "http://192.168.3.47:3000",
+		"userName": "admin@mygamma.io",
+		"password": "admin"
+	},
+	"repositories": [{
+		"repository": {
+			"uid": "10bf4049b3a77b0785f198a3b4f8b16f",
+			"projectName": "JenkinsPlugin_Python_PalletFlask,
+			"sources": {
+				"baseDir": "%WORKSPACE%"
+			}
+		},
+		"dataDir": "C:\\Shekhar-Acellere\\GitRepos\\Pyhon\\PalletFlask-dataDir",
+		"modules": {
+				"codeissues": [{
+						"name": "pylint"
+					}
+				]
+			}
+	}]
+}
