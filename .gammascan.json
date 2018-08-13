@@ -1,0 +1,22 @@
+{
+	"gammaAccess": {
+		"url": "http://192.168.2.236:3000",
+		"userName": "chandrashekhar.bhosale@acellere.com",
+		"password": "admin1234"
+	},
+	"repositories": [{
+		"repository": {
+			"uid": "55044f08e25b90a667fd6fdbaa14fa57",
+			"projectName": "JP_Win16ToU16_Python_PalletsFlask",
+			"sources": {
+				"baseDir": "$WORKSPACE"
+			}
+		},
+		"dataDir": "/opt/gamma_data/dataDir/Pyhon/PalletFlask-dataDir",
+		"modules": {
+			"codeissues": [{
+				"name": "pylint"
+			}]
+		}
+	}]
+}
